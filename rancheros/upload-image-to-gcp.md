@@ -11,10 +11,8 @@ RancherOS is available as an image in GCE, and can be easily run in Google Compu
 ![gce-images-page](../files/images/rancheros/gce-images-page.PNG)
 ![create-image-button](../files/images/rancheros/create-image-button.PNG)
 
-4. Fill the form with your own information or you can follow from the image below
+4. Fill the form with your own information or you can follow from the image below. You need to make sure to pick the source from cloud storage then click "create" button
 
 ![custom-image-properties](../files/images/rancheros/custom-image-properties.PNG)
-
-You need to make sure to pick the source from cloud storage then click "create" button
 
 5. Use the imported image to create a VM instance and make sure it boots properly
